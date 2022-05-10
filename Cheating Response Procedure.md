@@ -12,7 +12,7 @@ To determine the validity of cheating instances Major League Hacking defers to t
 
 ## Accusation
 
-To ensure a consistent and fair response across all events in the League, MLH will deal with cheating accusations at events in the League. If you suspect cheating, or you are an organizer who has been made aware of an accusation of cheating, please get in touch with MLH. If you are still at the event, go and find the onsite MLH representative. If it is after the event, please email league@mlh.io. The following steps are to be followed by MLH staff.
+To ensure a consistent and fair response across all events in the League, MLH will deal with cheating accusations at events in the League. If you suspect cheating, or you are an organizer who has been made aware of an accusation of cheating, please get in touch with MLH. If you are still at the event, go and find the onsite MLH representative. If it is after the event, please email cheating@mlh.io. The following steps are to be followed by MLH staff.
 
 ## Document the Report
 
@@ -30,10 +30,7 @@ There are also some guidelines as to what not to do as an initial response:
 - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility
 - Do not offer them input into penalties. This is the staff's responsibility
 
-Once something is reported to a staff member, immediately contact the League Team at league@mlh.io. The league team currently consists of:
-
-- Chi Nguyen - chi@mlh.io
-- Carl Domingo - carl@mlh.io
+Once something is reported to a staff member, immediately contact your MLH staff member onsite. 
 
 You can contact them on slack (where you can also find their cell numbers). The main objectives of the meeting with the League Team are to find out the following:
 
